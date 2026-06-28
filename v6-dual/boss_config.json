@@ -1,0 +1,22 @@
+{
+  "window_title": "勇者联盟",
+  "fallback_titles": ["微信"],
+  "boss_button_offset": [130, 100],
+  "boss_btn_confidence": 0.55,
+  "refreshed_confidence": 0.55,
+  "go_btn_confidence": 0.65,
+  "confirm_btn_confidence": 0.65,
+  "scroll_pixels": 180,
+  "scroll_down_times": 4,
+  "scroll_up_times": 4,
+  "timing": {
+    "min_action_delay": 0.4,
+    "max_action_delay": 1.5,
+    "click_hold_min": 0.05,
+    "click_hold_max": 0.18,
+    "move_duration_min": 0.15,
+    "move_duration_max": 0.5,
+    "long_pause_chance": 0.10
+  },
+  "recently_killed_window_sec": 300
+}
